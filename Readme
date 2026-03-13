@@ -1,18 +1,35 @@
-Python Pizza Order Program
-This is a simple Python program that calculates the final bill for a pizza order based on the user's selections.
+Python Pizza 🍕
 
-The user can choose:
+A simple command-line Python program that calculates the total bill for a pizza order based on the user's choices.
 
-Pizza size (Small, Medium, Large)
-Add pepperoni
-Add extra cheese
-The program calculates the total bill based on these selections.
+Features
 
-Concepts Practiced
-Conditional statements (if / elif / else)
-Nested logic
-User input handling
-How to Run
-Run the program in Python:
+Choose pizza size (Small, Medium, Large)
 
-python main.py
+Option to add pepperoni
+
+Option to add extra cheese
+
+Automatically calculates the final bill
+
+How It Works
+
+The program asks the user for:
+
+Pizza size
+
+Whether they want pepperoni
+
+Whether they want extra cheese
+
+Based on the selections, the program calculates and displays the final price.
+
+Example
+
+Welcome to Python Pizza Deliveries!
+
+What size pizza do you want? S, M, or L: M
+Do you want pepperoni? Y or N: Y
+Do you want extra cheese? Y or N: N
+
+Your final bill is: $23
