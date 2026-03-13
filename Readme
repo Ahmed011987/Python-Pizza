@@ -25,13 +25,12 @@ Concepts Practiced:
 - Basic program logic
 
 Pricing Structure:
-- Item	Price
-- Small Pizza	$15
-- Medium Pizza	$20
-- Large Pizza	$25
-- Pepperoni (Small Pizza)	$2
-- Pepperoni (Medium / Large Pizza)	$3
-- Extra Cheese	$1
+- Small Pizza - $15
+- Medium Pizza - $20
+- Large Pizza - $25
+- Pepperoni - (Small Pizza)	$2
+- Pepperoni - (Medium / Large Pizza)	$3
+- Extra Cheese - $1
 
 How It Works:
 
